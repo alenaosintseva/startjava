@@ -9,13 +9,13 @@ public class Variables {
       boolean iCheck = true;
       char osName = 'W';
 
-      System.out.println("coreCount=" + coreCount);
-      System.out.println("bitness=" + bitness);
-      System.out.println("romGigaByte=" + romGigaByte);
-      System.out.println("romKBit=" + romKBit);
-      System.out.println("cpuFrecuency=" + cpuFrecuency);
-      System.out.println("ram=" + ram);
-      System.out.println("iCheck=" + iCheck);
-      System.out.println("osName=" + osName);
+      System.out.println("coreCount = " + coreCount);
+      System.out.println("bitness = " + bitness);
+      System.out.println("romGigaByte = " + romGigaByte);
+      System.out.println("romKBit = " + romKBit);
+      System.out.println("cpuFrecuency = " + cpuFrecuency);
+      System.out.println("ram = " + ram);
+      System.out.println("iCheck = " + iCheck);
+      System.out.println("osName = " + osName);
   }
 }
